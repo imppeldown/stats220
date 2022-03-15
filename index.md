@@ -1,3 +1,3 @@
-## Greetings traveler!
+## Greetings traveler! 👋
 
 ![](my_meme.png)
