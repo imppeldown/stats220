@@ -3,7 +3,8 @@
 ![](my_meme.png)
 
 ```{r}
-
+output:
+  code_folding: hide
 library(magick)
 
 happy_jacinda <- image_read("https://api.time.com/wp-content/uploads/2020/06/GettyImages-1248074439.jpg?w,800,quality,85") %>%
