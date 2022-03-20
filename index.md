@@ -1,5 +1,7 @@
 ## Greetings traveler! 👋
 
+The motivation behind creating this meme was to portray how the popularity of a famous person can plummet with just one event. Although the person might have done many other good deeds, it often seems like the general public is mostly fixated on the one odd event that the crowd doesn't agree with. In this case, although fuel prices were a global issue, many New Zealanders held the prime minister accountable for it. 
+
 ![](my_meme.png)
 
 ```{r}
