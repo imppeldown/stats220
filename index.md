@@ -29,6 +29,7 @@ The meme features images from the following links to their respective websites:
 
 ![](my_meme.png)
 
+##### **The codes**
 ```{r}
 output:
   code_folding: hide
