@@ -18,6 +18,8 @@ The meme features images from the following links to their respective websites:
     - [*happy Jacinda3*](https://www.newshub.co.nz/dam/form-uploaded-images-ordered/2019/12/14/supplied-ardern-white-island-1120.jpg)
     - [*happy Jacinda4*](https://resources.stuff.co.nz/content/dam/images/1/m/i/6/h/6/image.related.StuffLandscapeSixteenByNine.1420x800.1nig3u.png/1513632349476.jpg)
 
+##### **Some of Jacinda's good deeds as per her [*party's website*](https://www.labour.org.nz/news-jacindaardern-leadership)**
+
 ##### **Some functions used in the creation of this meme:**
  - `image_read()`
  - `image_annotate()`
