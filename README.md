@@ -1,5 +1,5 @@
 # STATS220
-Click here to view the [*meme*](https://imppeldown.github.io/stats220/)`https://imppeldown.github.io/stats220/`
+Click here to view the [*meme*](https://imppeldown.github.io/stats220/) `https://imppeldown.github.io/stats220/`
 
 This repo is part of my STATS220 course at the University of Auckland.
 
